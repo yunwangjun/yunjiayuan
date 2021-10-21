@@ -1,2 +1,37 @@
-# yunjiayuan
-贠家塬行政村位于洛川南部，方言与洛川中塬和北塬有明显差异，习俗基本相同略有差异。传统礼俗、节俗均有不同的民间艺术形式传达人们的信仰及精神需求，面花、剪纸、刺绣等艺术形式是当地人原始崇拜、图腾崇拜的精神外化，秧歌、民间小调、曲艺等表演形式是传统节俗和神灵崇拜活动必不可少的祭祀形式。因此，洛川非物质文化遗产原生态在贠家塬村都得以传承和发展。
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/yunwangjun/yunjiayuan/edit/site/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yunwangjun/yunjiayuan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
